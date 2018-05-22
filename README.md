@@ -1,6 +1,6 @@
 # Experience System
 
-This is the method that I use to 
+This is the method that I use to set the experience needed for a characther to reach a certain level
 
 ## Test
 
